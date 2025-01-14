@@ -14,7 +14,7 @@
 --> Styling: CSS for clean and responsive design.                                                                                                                             
 --> Development: Deployed locally with the option to use GitHub Pages for hosting.                                                                                           
 
-Visit the Live Link: 
+Visit the Live Link: https://deepfrontend07.github.io/React_Redux_Toolkit/
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
