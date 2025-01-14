@@ -3,7 +3,9 @@
 🚀 Features                                                                                                                                                                  
 
 --> React Framework: Built using modern React.js practices for simplicity and efficiency.                                                                                     
---> # Redux Toolkit #: Utilizes Redux Toolkit for streamlined state management.                                                                                               
+--> Redux Toolkit: Utilizes Redux Toolkit for streamlined state management.    
+--> Counter Functionality: Increment, decrement, and update the counter by a custom amount.
+--> Ease of Integration: Modular structure makes it easy to integrate into larger applications.
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
